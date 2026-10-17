@@ -1,0 +1,635 @@
+[
+  {
+    "id": "2025-08-madrid-urkupina-dia-1",
+    "title": "Madrid Urkupiña Dia 1",
+    "date": "2025-08",
+    "country": "España",
+    "link": "https://photos.google.com/share/AF1QipPVq4TNPgdGwu7hm14rEDtMwy7juycHGHYc7TFJPnmDlLQo6NBOHKB6wwUpua9lmQ?key=d18ybEJXazJSNXZwbTVkR2FlMVNva0d1QUFpZXdR",
+    "photos": 5010,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-08-madrid-urkupina-dia-1.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-08-madrid-urkupina-dia-2",
+    "title": "Madrid Urkupiña - Dia 2",
+    "date": "2025-08",
+    "country": "España",
+    "link": "https://photos.google.com/share/AF1QipPaboZdi2aeoLAkzOTQJ-ViZO-fS2_0qGe4DPhHgALUi0O3sJNSCSf3UGpiha1ekQ?key=SEpFdW5QdnZDWURpUFNVMXZzeDZkVGhGR29vODRn",
+    "photos": 4628,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-08-madrid-urkupina-dia-2.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-07-carnaval-tropical-de-paris",
+    "title": "Carnaval Tropical de Paris",
+    "date": "2025-07",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipMdJRDiRAYGZFrzMGWJqu4ZvDMS53gcLilcuvBvIOtFrxi6xzSAldS-CK3HmewBnQ?key=bmVadTZTTmxYQXI4VDhzVjJfV18tYmJDSlZvZDR3",
+    "photos": 2933,
+    "dances": [
+      "Caporales",
+      "Tinku",
+      "Salay"
+    ],
+    "groups": [],
+    "cover": "img/covers/2025-07-carnaval-tropical-de-paris.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-07-paris-shooting-tour-eiffel-sucre",
+    "title": "Paris - Shooting Tour Eiffel Sucre",
+    "date": "2025-07",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipNDSzs2L9Ruxjf-FGlcQtA7mTc6hZqzafvnyiKeWNqOsz4T0Ty4q5FHodZ6mjMZxQ?key=UDZTaUthMU8zczdIVk56dVZQUkFpWUhSdS0tSTFR",
+    "photos": null,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Sucre : Filial Francia"
+    ],
+    "cover": "img/covers/2025-07-paris-shooting-tour-eiffel-sucre.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-06-paris-carnaval-d-outre-mer",
+    "title": "Paris - Carnaval d'outre mer",
+    "date": "2025-06",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipM8e_FDZQGmxJ590jusQQ9J70zgu52Qopq8O_O5qK-YwtmahyO6_vh_qdvI3JXhYw?key=eFIwS1NjR2w1c0o0LXplUG80V1g3OVplMWNSX0FB",
+    "photos": null,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-06-paris-carnaval-d-outre-mer.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-06-carnaval-de-outre-mer-presentation-pre-carnaval",
+    "title": "Carnaval de outre mer - presentation pre-carnaval",
+    "date": "2025-06",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipNFAk7pC0OHs624O6tMVG_A6zL2e-JG8YyiybFs-knB1q4dncV609Kej9vfpJTy6g?key=aG13QjRHVDY4TVhiNUVLbG5JbXZDZ2J0S1FfVE9R",
+    "photos": 271,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Francia"
+    ],
+    "cover": "img/covers/2025-06-carnaval-de-outre-mer-presentation-pre-carnaval.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-05-paris-foire-de-paris",
+    "title": "Paris - Foire de Paris",
+    "date": "2025-05",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipMF9BxlA990TLx7UgweglGF0CkkfO3T-FOa6DHvi2_EcBl4MmOrdR1Jxkj1DYmgxg?key=MnNQYlBKSDZCWUFEbkMtMlZQMXo5RzJfV1U2VkRn",
+    "photos": 1203,
+    "dances": [
+      "Caporales",
+      "Tinku"
+    ],
+    "groups": [],
+    "cover": "img/covers/2025-05-paris-foire-de-paris.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-05-san-leandro-kantuta",
+    "title": "San Leandro Kantuta",
+    "date": "2025-05",
+    "country": "USA",
+    "link": "https://photos.google.com/share/AF1QipOgX7r_hCA4F6aCLB5MOk49EaDUZ8lmsuhQ5u7jKIkfPRduU0B7qMcPTyd25NicVg?key=STU1RDJOQWZuRUIxTjFKRWNxMWI0ckVETW9KdS1B",
+    "photos": 770,
+    "dances": [
+      "Kullawada"
+    ],
+    "groups": [],
+    "cover": "img/covers/2025-05-san-leandro-kantuta.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-05-san-francisco-carnaval-kantuta",
+    "title": "San Francisco Carnaval Kantuta",
+    "date": "2025-05",
+    "country": "USA",
+    "link": "https://photos.google.com/share/AF1QipORpMRn1CUoE_MOH-9ATABsQ7LDuSCQc9GbDtTmjV6FdMbvz8t7yJ4Y0NuZ_0Gv2w?key=TjBMTmxGaUlESUw2U1BQODctRlk2R2YtQ2dieXBR",
+    "photos": 1403,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-05-san-francisco-carnaval-kantuta.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-05-san-francisco-carnaval-other-groups",
+    "title": "San Francisco Carnaval other groups",
+    "date": "2025-05",
+    "country": "USA",
+    "link": "https://photos.google.com/share/AF1QipOk2bvpMpkxmmRYroauJjzUylTmALXlUU-Xd1xy9UYMgoMOd5m3uYbTctU2rvVRCQ?key=VGhEMUhyaHN1OGlfSF9GbHlhcWxxaVh0bEJRSkpn",
+    "photos": 865,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-05-san-francisco-carnaval-other-groups.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-05-alameda-san-simon-cocha-convite",
+    "title": "Alameda San Simon Cocha convite",
+    "date": "2025-05",
+    "country": "USA",
+    "link": "https://photos.google.com/share/AF1QipN9qVjy8vvXkeSJlN9vVzJVxU7p70HyL7qJ21e_9S7o6tavIrzrwa2R0QbypgNbvg?key=V2t3WktvZVBSN21SbERSMVVtSXFEYkJyTTVCaWZ3",
+    "photos": 374,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial California"
+    ],
+    "cover": "img/covers/2025-05-alameda-san-simon-cocha-convite.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-04-bilbao",
+    "title": "Bilbao",
+    "date": "2025-04",
+    "country": "España",
+    "link": "https://photos.google.com/share/AF1QipMPemTF3EBU22VuYG99vDUXer513gCqeYEXCpCCu0OT7eaUloqSpWlHBBhjo6NCkw?key=bXh6RWF0UVFIZnMwWjdOUGdKOFZOaW5GUjRVc0ZB",
+    "photos": 1988,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-04-bilbao.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-04-paris-rue-didot-ss-sucre",
+    "title": "Paris - Rue Didot - SS Sucre",
+    "date": "2025-04",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipMhCvUbHioZnBYG4kyM38QLjo36jqCd8e6GpaKeRi_JIwnq5-yyKKA3H2upBy7BjQ?key=RHRMRzdzVnhrMFg4VWdveXZkWUhZR293R3lQamFR",
+    "photos": 296,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [],
+    "cover": "img/covers/2025-04-paris-rue-didot-ss-sucre.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-03-oruro-carnaval",
+    "title": "Oruro Carnaval",
+    "date": "2025-03",
+    "country": "Bolivia",
+    "link": "https://photos.google.com/share/AF1QipOOj5Ako6qK08yG36_85BJhNNf5TtwYdGChHUnrANIpqj6sviXgD2mSMuWUnhJweA?key=c3VjLXNaLU42WE5fOUxLSFpfNmJJRWxIT3dsbU13",
+    "photos": 7684,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-03-oruro-carnaval.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-03-cochabamba-corso-de-corso",
+    "title": "Cochabamba - corso de corso",
+    "date": "2025-03",
+    "country": "Bolivia",
+    "link": "https://photos.google.com/share/AF1QipMyS2uipazH-U4_e_0WiZE7WNjz0pjUKV2EwMwgmpS-qHjFgKMto6mkoROrT2KfjQ?key=YjRSekRKSS1nZGU1R0tfYWM5Z3cydVkzLXp1T3Z3",
+    "photos": 3480,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2025-03-cochabamba-corso-de-corso.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-03-paris-carnaval-de-mi-careme",
+    "title": "Paris - Carnaval de Mi-carème",
+    "date": "2025-03",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipPbZA0xW1WMUodd_94LM0KPiyoyUE5MxiA4LY3vlzjAbt9lHw_7hslqn1nn9l-mNA?key=QjJHUHZlc3dPU0FOOTBScV9hZTJWdWxNUmlxYnpn",
+    "photos": 898,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [],
+    "cover": "img/covers/2025-03-paris-carnaval-de-mi-careme.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-02-paris-nouvel-an-chinois-tkss",
+    "title": "Paris Nouvel an chinois TKSS",
+    "date": "2025-02",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipP9Nef_HKIiI_aEinebhketgfpk_9j3o6VyqKseuUBBPTblHwNNtNP6CnfRN5VUqg?key=NjhQTkVMOGszTE9kYUN0V3gzX1FVOF9zM29hZ0lB",
+    "photos": 242,
+    "dances": [
+      "Tinku"
+    ],
+    "groups": [
+      "Tinku San Simon : Filial Francia"
+    ],
+    "cover": "img/covers/2025-02-paris-nouvel-an-chinois-tkss.jpg",
+    "featured": true
+  },
+  {
+    "id": "2025-02-valencia",
+    "title": "Valencia",
+    "date": "2025-02",
+    "country": "España",
+    "link": "https://photos.google.com/share/AF1QipMyGq9Fu1lwH84hu-5dpQwkwj_iMnnkNjsK5o4dipG5OoERHld6rLfKTWpGgn-5Tw?key=V1prQW8tZWp6RWM4eHloX3ZIZEVpSDBPdnd0cExR",
+    "photos": 1700,
+    "dances": [
+      "Tinku",
+      "Caporales",
+      "Salay",
+      "Morenada"
+    ],
+    "groups": [],
+    "cover": "img/covers/2025-02-valencia.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-02-oruro-ultimo-convite",
+    "title": "Oruro - Ultimo Convite",
+    "date": "2025-02",
+    "country": "Bolivia",
+    "link": "https://photos.google.com/share/AF1QipM9J_QVyzl2j_jVAWczc8Wjsl0rjaHXKvaqRZaqwYFYr4JyqtqB5vSfTfYm39jVWw?key=WGdtMVhmNThHQ2pnTXlzU2xxYTBvbUpPOVBaWkNn",
+    "photos": 1813,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [],
+    "cover": "img/covers/2025-02-oruro-ultimo-convite.jpg",
+    "featured": false
+  },
+  {
+    "id": "2025-02-cochabamba-ultimo-ensayo",
+    "title": "Cochabamba Ultimo Ensayo",
+    "date": "2025-02",
+    "country": "Bolivia",
+    "link": "https://photos.google.com/share/AF1QipOu41-sxdiOXkKXDeC5zdyi_KTRPVwB4_P0Dof2RloOkjzOefWmobkQX3nv-z8TJw?key=Q050ZXhxX1d6bXF6UlQxOUFJODBtOVZlUUdjcWtB",
+    "photos": 769,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "San Simon Cochabamba"
+    ],
+    "cover": "img/covers/2025-02-cochabamba-ultimo-ensayo.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-12-barcelona-concurso-caporales-tinku",
+    "title": "Barcelona Concurso Caporales Tinku",
+    "date": "2024-12",
+    "country": "España",
+    "link": "https://photos.google.com/share/AF1QipO4wHy5W3Pw6QcUqtNDEADwJ7fmS3mcF-o8LMYw-_6S2baPJfooXe5NyFXrut5-nQ?key=ak1NV2w3RUYxWDRTQTEwQS16SXVRN2k1UTU4Y1BB",
+    "photos": 2459,
+    "dances": [
+      "Caporales",
+      "Tinku"
+    ],
+    "groups": [],
+    "cover": "img/covers/2024-12-barcelona-concurso-caporales-tinku.jpg",
+    "featured": true
+  },
+  {
+    "id": "2024-10-carnaval-tropical-de-paris",
+    "title": "Carnaval Tropical De Paris",
+    "date": "2024-10",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/V44x1tD9PnXrwZuB8",
+    "photos": 1530,
+    "dances": [
+      "Tinku",
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Italia",
+      "Caporales San Simon Cochabamba : Filial Francia",
+      "Tinku San Simon : Filial Francia"
+    ],
+    "cover": "img/covers/2024-10-carnaval-tropical-de-paris.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-10-barcelone-dia-de-la-hispanidad",
+    "title": "Barcelone Dia de la Hispanidad",
+    "date": "2024-10",
+    "country": "España",
+    "link": "https://photos.app.goo.gl/qGsD2VdASsAkrCgn7",
+    "photos": 2025,
+    "dances": [
+      "Tinku",
+      "Caporales",
+      "Salay"
+    ],
+    "groups": [],
+    "cover": "img/covers/2024-10-barcelone-dia-de-la-hispanidad.jpg",
+    "featured": true
+  },
+  {
+    "id": "2024-09-festival-boliviano-virginia",
+    "title": "Festival Boliviano Virginia",
+    "date": "2024-09",
+    "country": "USA",
+    "link": "https://photos.app.goo.gl/u1F5PnvcJuKgvEc96",
+    "photos": null,
+    "dances": [],
+    "groups": [],
+    "cover": "img/covers/2024-09-festival-boliviano-virginia.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-08-urkupina-milan",
+    "title": "Urkupiña Milan",
+    "date": "2024-08",
+    "country": "Italia",
+    "link": "https://photos.app.goo.gl/XBVkfhadyuX5BmhP7",
+    "photos": null,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon La Paz : Filial Francia",
+      "Caporales San Simon Sucre : Filial Italia",
+      "Caporales San Simon Cochabamba : Filial Italia"
+    ],
+    "cover": "img/covers/2024-08-urkupina-milan.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-08-madrid",
+    "title": "Madrid",
+    "date": "2024-08",
+    "country": "España",
+    "link": "https://photos.app.goo.gl/gHbVgBig49S28M1g9",
+    "photos": 2124,
+    "dances": [
+      "Caporales",
+      "Salay",
+      "Morenada",
+      "Tinku"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Francia",
+      "Caporales San Simon Cochabamba : Filial Italia",
+      "Caporales San Simon La Paz : Filial Francia"
+    ],
+    "cover": "img/covers/2024-08-madrid.jpg",
+    "featured": true
+  },
+  {
+    "id": "2024-08-urkupina-bergamo",
+    "title": "Urkupiña Bergamo",
+    "date": "2024-08",
+    "country": "Italia",
+    "link": "https://photos.app.goo.gl/nqNTqmL3HqDqcQXU6",
+    "photos": 1153,
+    "dances": [
+      "Caporales",
+      "Morenada",
+      "Tinku",
+      "Salay"
+    ],
+    "groups": [
+      "Caporales San Simon Sucre : Filial Italia",
+      "Caporales San Simon Cochabamba : Filial Francia",
+      "Caporales San Simon Cochabamba : Filial Italia"
+    ],
+    "cover": "img/covers/2024-08-urkupina-bergamo.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-08-paris-fete-de-la-banane",
+    "title": "Paris Fête de la banane",
+    "date": "2024-08",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/irabvaPtsrNHwneYA",
+    "photos": 377,
+    "dances": [
+      "Tinku",
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Sucre : Filial Francia"
+    ],
+    "cover": "img/covers/2024-08-paris-fete-de-la-banane.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-07-rotterdam",
+    "title": "Rotterdam",
+    "date": "2024-07",
+    "country": "Nederland",
+    "link": "https://photos.app.goo.gl/dGAt2qJvNi6BKQVGA",
+    "photos": null,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [],
+    "cover": "img/covers/2024-07-rotterdam.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-06-paris",
+    "title": "Paris",
+    "date": "2024-06",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/mhW1wGrmw2sgPtQn9",
+    "photos": 1535,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Francia",
+      "Morenada Central : Filial Paris"
+    ],
+    "cover": "img/covers/2024-06-paris.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-05-carnaval-de-san-francisco-sscbba",
+    "title": "Carnaval de San Francisco - SSCBBA",
+    "date": "2024-05",
+    "country": "USA",
+    "link": "https://photos.app.goo.gl/jgXGm5Q2Zm8yGxkeA",
+    "photos": 341,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial California"
+    ],
+    "cover": "img/covers/2024-05-carnaval-de-san-francisco-sscbba.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-05-carnaval-de-san-francisco-kantutausa",
+    "title": "Carnaval De San Francisco - KantutaUSA",
+    "date": "2024-05",
+    "country": "USA",
+    "link": "https://photos.app.goo.gl/HRumfU6Gk7qhxc4P9",
+    "photos": 1075,
+    "dances": [
+      "Tinku"
+    ],
+    "groups": [
+      "KantutaUSA"
+    ],
+    "cover": "img/covers/2024-05-carnaval-de-san-francisco-kantutausa.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-05-foire-de-paris",
+    "title": "Foire de Paris",
+    "date": "2024-05",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/behDNQ1kKrKJicJr6",
+    "photos": 352,
+    "dances": [
+      "Caporales",
+      "Tinku"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Francia",
+      "Tinku Kay’sur : Filial Francia",
+      "Tinku San Simon : Filial Francia"
+    ],
+    "cover": "img/covers/2024-05-foire-de-paris.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-03-saint-ouen",
+    "title": "Saint-Ouen",
+    "date": "2024-03",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/GpVBevrSdmtR2mHv8",
+    "photos": 550,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Francia",
+      "Tinku Kay’sur : Filial Francia",
+      "Tinku San Simon : Filial Francia"
+    ],
+    "cover": "img/covers/2024-03-saint-ouen.jpg",
+    "featured": true
+  },
+  {
+    "id": "2024-03-louvre",
+    "title": "Louvre",
+    "date": "2024-03",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/BxhQBuwvTzkPVRWY8",
+    "photos": 560,
+    "dances": [
+      "Tinku"
+    ],
+    "groups": [
+      "Tinku Kay’sur : Filial Francia"
+    ],
+    "cover": "img/covers/2024-03-louvre.jpg",
+    "featured": true
+  },
+  {
+    "id": "2024-03-preshow-milena-warthon",
+    "title": "Preshow - Milena Warthon",
+    "date": "2024-03",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/w1UnATjWnndZXABS7",
+    "photos": 230,
+    "dances": [
+      "Tinku",
+      "Caporales"
+    ],
+    "groups": [
+      "Tinku Kay’sur : Filial Francia"
+    ],
+    "cover": "img/covers/2024-03-preshow-milena-warthon.jpg",
+    "featured": false
+  },
+  {
+    "id": "2024-02-carnaval-de-oruro-2024",
+    "title": "Carnaval de Oruro 2024",
+    "date": "2024-02",
+    "country": "Bolivia",
+    "link": "https://photos.app.goo.gl/4eDeDAanfMyjz58K8",
+    "photos": 2562,
+    "dances": [
+      "Tinku",
+      "Caporales",
+      "Salay",
+      "Morenada"
+    ],
+    "groups": [],
+    "cover": "img/covers/2024-02-carnaval-de-oruro-2024.jpg",
+    "featured": false
+  },
+  {
+    "id": "2023-12-caporales-navidad",
+    "title": "Caporales Navidad",
+    "date": "2023-12",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/o5NXPcRs8UL1NxTJ9",
+    "photos": 252,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Francia"
+    ],
+    "cover": "img/covers/2023-12-caporales-navidad.jpg",
+    "featured": false
+  },
+  {
+    "id": "2023-12-virgen-de-urkupina-paris",
+    "title": "Virgen de Urkupina - Paris",
+    "date": "2023-12",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/H6qzEn5J4R6StNzo8",
+    "photos": 144,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon Cochabamba : Filial Francia"
+    ],
+    "cover": "img/covers/2023-12-virgen-de-urkupina-paris.jpg",
+    "featured": false
+  },
+  {
+    "id": "2023-09-san-simon-la-paz-elections",
+    "title": "San Simon La paz - Elections",
+    "date": "2023-09",
+    "country": "France",
+    "link": "https://photos.app.goo.gl/DGXywE8fEWme3UK67",
+    "photos": 210,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon La Paz : Filial Francia"
+    ],
+    "cover": "img/covers/2023-09-san-simon-la-paz-elections.jpg",
+    "featured": false
+  },
+  {
+    "id": "2023-03-saint-pierre-de-chandieu",
+    "title": "saint pierre de chandieu",
+    "date": "2023-03",
+    "country": "France",
+    "link": "https://photos.google.com/share/AF1QipM0m2Mw_3i3xPde2a8Rw65SdSXGPVULrdbvdQkRFLY0n6RVyF9vk2qKByMXIKtCGw?key=eUw0aTdhdjNYdlUxWjlNdVhYYWtNNFdvQ3BoZ3Jn",
+    "photos": 824,
+    "dances": [
+      "Caporales"
+    ],
+    "groups": [
+      "Caporales San Simon La Paz : Filial Francia"
+    ],
+    "cover": "img/covers/2023-03-saint-pierre-de-chandieu.jpg",
+    "featured": false
+  }
+]
