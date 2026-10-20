@@ -44,3 +44,8 @@ python3 -m http.server 8000
 ```
 
 Then open http://localhost:8000.
+
+## 3D header proposals (preview)
+`propuesta-1-espiral.html`, `propuesta-2-tunel.html` and `propuesta-3-globo.html` are the full site with a 3D header in place of the photo mosaic.
+They share `css/hero3d.css`, `js/hero3d.js` and use small thumbnails from `img/hero/` (320×240, regenerate from `img/covers/` when albums change).
+Tiles link to their album. Animation stops when the header is off screen and respects "reduce motion".

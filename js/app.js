@@ -148,7 +148,8 @@
       $('stat-albums').textContent = albums.length;
       $('stat-photos').textContent = `${Math.floor(photos / 1000)}k+`;
       $('stat-countries').textContent = new Set(albums.map(a => a.country)).size;
-      $('hero-mosaic').innerHTML = albums.filter(a => a.cover && a.featured)
+      const mosaic = $('hero-mosaic');
+      if (mosaic) mosaic.innerHTML = albums.filter(a => a.cover && a.featured)
         .slice(0, 6).map(a => `<img src="${esc(a.cover)}" alt="">`).join('');
 
       applyLang();
