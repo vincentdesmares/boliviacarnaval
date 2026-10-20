@@ -44,3 +44,8 @@ python3 -m http.server 8000
 ```
 
 Then open http://localhost:8000.
+
+## Header
+The home page header is a 3D tunnel of album photos (`css/hero3d.css`, `js/hero3d.js`, `js/hero-tunel.js`).
+It uses small thumbnails from `img/hero/` (320×240): when you add an album, add its thumbnail there too.
+Each photo links to its album. The animation stops when the header is off screen and respects "reduce motion".

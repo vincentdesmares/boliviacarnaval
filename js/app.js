@@ -6,6 +6,7 @@
     'hero.title': 'Bolivian dances all over the world',
     'hero.lead': 'I travel to capture Bolivian dances, whatever the group. Dancers always get their photos for free.',
     'hero.cta': 'Find your album',
+    'hero.hint': 'Scroll to speed up',
     'stats.albums': 'albums', 'stats.photos': 'photos', 'stats.countries': 'countries',
     'albums.title': 'Albums',
     'albums.sub': 'Tap an album to see and download the photos on Google Photos.',
@@ -148,8 +149,6 @@
       $('stat-albums').textContent = albums.length;
       $('stat-photos').textContent = `${Math.floor(photos / 1000)}k+`;
       $('stat-countries').textContent = new Set(albums.map(a => a.country)).size;
-      $('hero-mosaic').innerHTML = albums.filter(a => a.cover && a.featured)
-        .slice(0, 6).map(a => `<img src="${esc(a.cover)}" alt="">`).join('');
 
       applyLang();
     })
