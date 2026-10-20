@@ -1,4 +1,4 @@
-/* 3D header proposals. Shared by propuesta-*.html. */
+/* 3D tunnel header on the home page. */
 .hero3d {
   position: relative; overflow: hidden; isolation: isolate;
   height: calc(100svh - 64px); min-height: 560px; max-height: 980px;
@@ -54,14 +54,10 @@
   .hero3d .hero-text { bottom: 24px; }
   .hero3d .lead { font-size: 1rem; }
   .hero3d::after { background: linear-gradient(0deg, rgba(20, 17, 15, .95) 0%, rgba(20, 17, 15, .6) 38%, transparent 62%); }
-  .hint { top: 56px; bottom: auto; }
+  .hint { top: 14px; bottom: auto; }
 }
 
-/* 1 · Espiral */
-.hero3d--espiral .world { left: 64%; }
-@media (max-width: 820px) { .hero3d--espiral .world { left: 50%; top: 36%; } }
-
-/* 2 · Túnel */
+/* Túnel */
 .hero3d--tunel .stage { perspective: 700px; }
 .hero3d--tunel .tile { will-change: transform, opacity; }
 .streak {
@@ -79,30 +75,4 @@
   background: radial-gradient(ellipse at 50% 50%, rgba(20, 17, 15, .88) 0%, rgba(20, 17, 15, .6) 32%, transparent 60%);
 }
 
-/* 3 · Globo */
-.hero3d--globo .world { left: 68%; }
-.hero3d--globo .tile { backface-visibility: hidden; -webkit-backface-visibility: hidden; }
-.core {
-  position: absolute; border-radius: 50%;
-  background: radial-gradient(circle at 35% 30%, rgba(242, 194, 48, .35), rgba(224, 69, 47, .18) 45%, rgba(20, 17, 15, 0) 70%);
-  filter: blur(6px);
-}
-.ring { position: absolute; }
-.ring span {
-  position: absolute; left: 0; top: 0;
-  font: 800 22px/1 var(--serif); color: var(--gold);
-  text-shadow: 0 0 18px rgba(242, 194, 48, .7);
-  backface-visibility: visible;
-}
-@media (max-width: 820px) { .hero3d--globo .world { left: 50%; top: 34%; } }
-
 @media (prefers-reduced-motion: reduce) { .hint { animation: none; } }
-
-/* Switch between proposals (preview only) */
-.switcher {
-  position: absolute; z-index: 3; top: 12px; left: 16px; display: flex; gap: 4px;
-  padding: 4px; border-radius: 999px; background: rgba(20, 17, 15, .7); border: 1px solid var(--line);
-  font-size: .8rem; backdrop-filter: blur(6px);
-}
-.switcher a { color: var(--text); text-decoration: none; padding: 4px 10px; border-radius: 999px; font-weight: 600; }
-.switcher a[aria-current] { background: var(--gold); color: #14110f; }
