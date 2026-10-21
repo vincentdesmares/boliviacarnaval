@@ -2,7 +2,17 @@
 // pause when off screen, reduced-motion support. Each scene registers itself with Hero3D.run().
 window.Hero3D = (function () {
   // Albums whose cover is a grid of several photos.
-  const COLLAGE = /^(2023-03|2025-0[2-8](?!-paris-nouvel|-valencia))/;
+  const COLLAGE = new Set([
+    '2023-03-saint-pierre-de-chandieu',
+    '2025-02-oruro-ultimo-convite', '2025-02-cochabamba-ultimo-ensayo',
+    '2025-03-oruro-carnaval', '2025-03-cochabamba-corso-de-corso', '2025-03-paris-carnaval-de-mi-careme',
+    '2025-04-bilbao', '2025-04-paris-rue-didot-ss-sucre',
+    '2025-05-paris-foire-de-paris', '2025-05-san-leandro-kantuta', '2025-05-san-francisco-carnaval-kantuta',
+    '2025-05-san-francisco-carnaval-other-groups', '2025-05-alameda-san-simon-cocha-convite',
+    '2025-06-paris-carnaval-d-outre-mer', '2025-06-carnaval-de-outre-mer-presentation-pre-carnaval',
+    '2025-07-carnaval-tropical-de-paris', '2025-07-paris-shooting-tour-eiffel-sucre',
+    '2025-08-madrid-urkupina-dia-1', '2025-08-madrid-urkupina-dia-2',
+  ]);
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   function tile(a, w, h) {
@@ -74,7 +84,7 @@ window.Hero3D = (function () {
     let albums = [];
     fetch('data/albums.json').then(r => r.json()).then(data => {
       // Single-photo covers first: they read better at small size than the collage covers.
-      const isCollage = a => COLLAGE.test(a.id);
+      const isCollage = a => COLLAGE.has(a.id);
       albums = data.filter(a => a.cover).sort((a, b) => (isCollage(a) - isCollage(b)) || b.date.localeCompare(a.date));
       scene.build(world, albums, stage.getBoundingClientRect());
       ready = true;
