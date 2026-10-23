@@ -20,6 +20,8 @@
     'magnets.p1': 'Dancers always get their photos for free: it is my way to support this culture and help it spread.',
     'magnets.p2': 'But gear, travel and prints have a cost. To keep the photos free, I offer my photos as magnets: small souvenirs of a moment, a smile or a dance.',
     'magnets.cta': 'Order my magnets',
+    'magnets.throne': 'You can also gift me photo gear from my Throne wishlist. 🎁',
+    'magnets.throneCta': 'See my Throne wishlist',
     'about.title': 'Hi! I am Vincent',
     'about.p1': 'I am an independent French photographer 🇫🇷 specialised in the Bolivian carnival. I love travelling the world to photograph Bolivian dances, whatever the group.',
     'about.p2': 'I do not dance 😬 But if I ever do, it will surely be Tinku. My favourite dance to photograph: the Llamerada.',
